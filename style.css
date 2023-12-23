@@ -1,0 +1,28 @@
+
+html{background-color: black;}
+
+#imagine{
+    width: 50%;
+    border: 5px solid white;
+    margin-top: 25%;
+    margin-left:25%;
+    margin-right:25%;
+    margin-bottom:0px;}
+#imagine img{
+    width: 100%;
+    object-fit:cover;}
+#verset{
+    text-align: center;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 3rem;
+    color:white;
+    text-transform: uppercase;
+    margin-left:25%;
+    width:50%}
+#paragraf{
+    width: 50%;
+    margin-left:25%;
+    text-align: center;
+    color: white;
+    font-size: 5rem;
+    margin-left:25%}
